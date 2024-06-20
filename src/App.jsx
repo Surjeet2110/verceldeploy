@@ -2,6 +2,7 @@
 
 import React from 'react';
 import EventRegistrationForm from './components/EventRegistrationForm';
+import './App.css';
 
 function App() {
   return (
